@@ -135,6 +135,8 @@ public class FinalProjectDriver {
 
         //method to set movie relese year
 
+        // method to save array list to sorted array list
+
         // method to search for a movie name and print it and display it A to Z or Z to A
 
         // method to search for a movie genre and print it and display it A to Z or Z to A
